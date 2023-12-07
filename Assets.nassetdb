@@ -15,13 +15,13 @@
     "bc14c98f-f780-4219-8ef1-ae756cb57ff5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Ship It.scene.nasset"
+        "path": "Assets/Ship It.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-11.9447,-12.9776,12.8029],\"rotation\":[-33.7542,-0.0,-48.699]}"
+        }
     },
     "guid": "b80086e9-d544-795f-ea05-d25221c29949",
     "imported_assets": [
-        "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
-        "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
-        "3ab745aa-6a7d-608d-321a-60e00705f78f",
         "003f6588-4d15-530e-1aec-8218f03d1a33",
         "01d84f77-6ced-edb1-cd21-4f913d55a323",
         "03587e3d-8d1a-9718-e0be-d491a4a2f6fe",
@@ -94,6 +94,7 @@
         "373b501e-8b99-ba17-159f-5ba296104794",
         "3761e589-bf3a-fc53-6eee-703389b1c568",
         "378fdcb7-4e35-2ca5-4229-e60ee87c929f",
+        "3ab745aa-6a7d-608d-321a-60e00705f78f",
         "3bd7a6e4-4aff-e185-e232-26dfb65e8039",
         "3d21530b-ca5c-0111-7210-ad5689e9d206",
         "3d7593c8-9144-69a2-8414-055d98f0a872",
@@ -131,6 +132,7 @@
         "576fa92a-d852-2533-4c63-ca816c305cd1",
         "586451e4-b315-f6d6-0199-c6c0ab1d4ffd",
         "59587a5f-ae89-061b-52f7-4127b08f50ac",
+        "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
         "5a428e61-ea9b-a427-a1c4-d91c4b7a96cf",
         "5b263b11-0762-f8bd-9767-fc92ade8683b",
         "5ba3b7d6-d310-d200-6c8d-9d9e97c08a91",
@@ -268,6 +270,7 @@
         "d4ebbab4-1548-89a9-eba3-56a1d3bd01ab",
         "d6587e60-fc57-59bd-cfef-51997abc8f79",
         "d9fa2e51-66a7-30ab-6f63-b33cceddd5e8",
+        "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
         "db89020c-de42-7da6-80ed-56158c700f4c",
         "dbc87cc2-1a34-4492-5469-89e64ac30612",
         "dcda31d8-3dd8-6927-964d-2ae71af5eab6",
