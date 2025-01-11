@@ -1,0 +1,115 @@
+{
+    "guid": "1818c02f-68d2-a580-0fa4-0d92d7496b77",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "790b6c1b-4fa9-2e2e-9284-4961f2989f49",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8c3eb70e-0194-24c5-96e3-accd6bbc13c9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Box Wide Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e2181472-4bc0-5a4b-aef2-3397a5a4f9c2",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Box Wide Cardboard Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "811d804f-717c-856c-1358-aeeb3fa55557",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Box Wide Cardboard"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "04a2a88f-415c-5a8b-6d14-5ca14f89a719",
+                                "material_instance": "c2f83b5d-3a1d-8a80-4aed-d14614464f9d"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "04a2a88f-415c-5a8b-6d14-5ca14f89a719"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "4e4c1b35-8073-32a0-6e64-6d5170d6b787",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Box Wide Tape Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "609cfff2-a207-3473-e606-5733054516e5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Box Wide Tape"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2a28827e-b8b7-b75d-3d46-c1f9f5aafac4",
+                                "material_instance": "8e3d87c6-cb74-04dc-1971-8c10fb4c8ac4"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2a28827e-b8b7-b75d-3d46-c1f9f5aafac4"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "1818c02f-68d2-a580-0fa4-0d92d7496b77"
+    },
+    "dependencies": [
+        "c2f83b5d-3a1d-8a80-4aed-d14614464f9d",
+        "04a2a88f-415c-5a8b-6d14-5ca14f89a719",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "8e3d87c6-cb74-04dc-1971-8c10fb4c8ac4",
+        "2a28827e-b8b7-b75d-3d46-c1f9f5aafac4"
+    ],
+    "thumbnailGuid": "4c81cff1-6075-1c85-1663-8296ab5cba6d"
+}
